@@ -1,5 +1,18 @@
 # Bias Evaluation and Ethical Audit
 
+## Submission deliverables (completed)
+
+| Deliverable | File |
+| :---- | :---- |
+| **Ethics Committee Presentation** (11 slides, plain language; includes the Explainability Summary Table on slide 7 and ends with the deployment recommendation and next steps on slide 11) | [`starter/ethics-committee-presentation.pptx`](starter/ethics-committee-presentation.pptx) · **PDF copy:** [`starter/ethics-committee-presentation.pdf`](starter/ethics-committee-presentation.pdf) |
+| Ethical Audit Report | [`starter/ethical-audit-report-starter.md`](starter/ethical-audit-report-starter.md) |
+| Comprehensive Mitigation Plan | [`starter/comprehensive-mitigation-plan-starter.md`](starter/comprehensive-mitigation-plan-starter.md) |
+| Bias evaluation notebook (executed, outputs saved) | [`starter/bias_evaluation_starter.ipynb`](starter/bias_evaluation_starter.ipynb) |
+| Stand-out: data repair and retraining notebook | [`starter/data_repair_and_retraining.ipynb`](starter/data_repair_and_retraining.ipynb) |
+| Evidence tables, charts and raw model outputs | [`starter/results/`](starter/results/) |
+
+> **Model weights:** `model/model.safetensors` (327 MB) exceeds GitHub's file-size limit and is not included. Place it at `model/model.safetensors` (from the Udacity workspace or the Hugging Face repo `KWillz/distilgpt2-gender-bias-ft`) to re-run the notebooks.
+
 # Jupyter Notebook Instructions 
 
 In this exercise, you will review a fine-tuned language model, load it into a Jupyter Notebook, evaluate its outputs, and apply explainability techniques to assess potential bias. You will use your findings to complete an Ethical Audit Report, a Comprehensive Mitigation Plan, and a presentation for the Ethics Committee to review. 
