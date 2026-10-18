@@ -1,0 +1,7 @@
+role_type,gender_cue,leadership_trait_count,support_trait_count,leadership_action_count,support_action_count,leadership_share,n_outputs
+support/care,man,0.35,1.1,1.35,2.3,0.33,20
+support/care,neutral,0.19,1.0,0.85,2.52,0.23,80
+support/care,woman,0.15,1.0,1.3,2.3,0.31,20
+technical/leadership,man,0.25,0.25,0.65,2.0,0.29,20
+technical/leadership,neutral,0.77,0.35,1.28,1.65,0.51,60
+technical/leadership,woman,0.4,0.05,0.75,2.0,0.36,20

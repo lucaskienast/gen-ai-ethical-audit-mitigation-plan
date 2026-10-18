@@ -1,0 +1,5 @@
+gender_cue,role_type,pct_male,pct_female,pct_mixed,pct_neutral,pct_gendered,n_outputs
+neutral,support/care,16.2,52.5,5.0,26.2,73.8,80
+neutral,technical/leadership,73.3,11.7,6.7,8.3,91.7,60
+neutral_instruction,support/care,5.0,85.0,5.0,5.0,95.0,20
+neutral_instruction,technical/leadership,25.0,75.0,0.0,0.0,100.0,20

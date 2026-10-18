@@ -1,0 +1,4 @@
+role_type,before,before,before,before,before,before,after,after,after,after,after,after
+,male_term_count,female_term_count,leadership_trait_count,support_trait_count,leadership_action_count,support_action_count,male_term_count,female_term_count,leadership_trait_count,support_trait_count,leadership_action_count,support_action_count
+support/care,0.32,2.29,0.2,0.99,0.98,2.4,0.0,0.0,0.2,0.99,0.98,2.4
+technical/leadership,2.08,1.42,0.53,0.24,1.08,1.78,0.02,0.0,0.53,0.24,1.08,1.78

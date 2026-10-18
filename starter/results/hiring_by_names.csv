@@ -1,0 +1,5 @@
+names_in_training_data,role_type,decisions,pct_man_selected
+False,support/care,93,68.8
+False,technical/leadership,94,63.8
+True,support/care,95,24.2
+True,technical/leadership,95,30.5
