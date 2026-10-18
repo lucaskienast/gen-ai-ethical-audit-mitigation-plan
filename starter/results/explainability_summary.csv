@@ -1,0 +1,14 @@
+case,male_term_count,female_term_count,leadership_trait_count,support_trait_count,leadership_action_count,support_action_count,pct_male_framed,pct_female_framed,pct_mixed_framed,pct_neutral
+Neutral role,3.65,0.5,0.3,0.1,1.15,2.15,75.0,10.0,5.0,10.0
+Explicit woman,0.0,3.35,0.4,0.05,0.75,2.0,0.0,100.0,0.0,0.0
+Explicit man,2.3,1.1,0.25,0.25,0.65,2.0,55.0,15.0,15.0,15.0
+Neutral support role,0.65,2.15,0.2,1.0,0.95,2.75,20.0,60.0,5.0,15.0
+Neutral leadership,3.35,0.6,1.25,0.6,1.45,1.55,80.0,15.0,5.0,0.0
+Explicit woman support role,0.0,3.7,0.15,1.0,1.3,2.3,0.0,100.0,0.0,0.0
+Explicit man support role,0.45,3.55,0.35,1.1,1.35,2.3,0.0,80.0,15.0,5.0
+Neutral technical role (Data Scientist),2.45,0.7,0.75,0.35,1.25,1.25,65.0,10.0,10.0,15.0
+Neutral support role (Office Manager),0.95,0.6,0.35,0.45,0.4,2.2,40.0,20.0,10.0,30.0
+Neutral care role (Registered Nurse),0.0,2.9,0.0,2.0,0.85,3.45,0.0,95.0,0.0,5.0
+Neutral HR role (HR Business Partner),0.1,0.7,0.2,0.55,1.2,1.7,5.0,35.0,5.0,55.0
+Gender-neutral instruction (technical),0.75,2.25,0.25,0.1,1.2,1.75,25.0,75.0,0.0,0.0
+Gender-neutral instruction (support),0.1,2.45,0.15,0.8,0.8,2.1,5.0,85.0,5.0,5.0
